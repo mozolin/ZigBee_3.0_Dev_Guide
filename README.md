@@ -223,5 +223,5 @@ Original (Chinese): [https://z7po9bxpe4.k.topthink.com/@zigbee-dev-guide/](https
 ![](img/bilibili_video_downloader_02.jpg)  
 ![](img/bilibili_video_downloader_03.jpg)  
 
-[Development board on Taobao](https://item.taobao.com/item.htm?id=683089996879)
-[Development board on Aliexpress](https://aliexpress.ru/item/1005003309355639.html)
+[Development board on Taobao](https://item.taobao.com/item.htm?id=683089996879)  
+[Development board on Aliexpress](https://aliexpress.ru/item/1005003309355639.html)  
