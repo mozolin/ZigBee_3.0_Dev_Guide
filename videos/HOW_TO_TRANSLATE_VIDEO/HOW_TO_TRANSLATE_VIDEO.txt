@@ -1,5 +1,6 @@
 1) BandiCut 2024: Cut video into 40 seconds chunks (there should be "35 seconds" set in BandiCut to get 40 seconds chunks)
 2) Open https://app.videodubber.ai/, choose MP4 file (only 40 seconds for free version!), set source and target languages
+3) Choose voiceover for speaker: Guy (English US), Ivan (Russian)
 3) Translate
 4) Save source and translated text, subtitles, audio and video
 5) Enjoy!

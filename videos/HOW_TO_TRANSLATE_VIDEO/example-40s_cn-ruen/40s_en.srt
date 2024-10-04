@@ -1,0 +1,4 @@
+1
+00:00:01,539 --> 00:00:35,180
+First, let's take a look at the left side. The left side is a coordinator node. It is connected to a screen. The screen shows whether the sound is detected, whether there is a person, whether there is a touch, whether there is movement, the current heart rate, and the last one is whether there is pressure, which is the pressure sensor. At the same time, it is connected to a light. Each state is triggered, such as when there is sound, or when there is a person, or when there is touch, or when there is pressure, or when there is movement, then it corresponds.
+

@@ -1,0 +1,2 @@
+Source: Chinese video
+Target: Russian & English - video, text & subtitles
