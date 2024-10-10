@@ -10,7 +10,8 @@ Original (Chinese): [https://z7po9bxpe4.k.topthink.com/@zigbee-dev-guide/](https
 - [**src/ZigBee_3.0_Dev_Guide**](src/ZigBee_3.0_Dev_Guide): all sources (.docx & images) for the final document  
 - [**videos**](videos): all videos from Chinese resource  
 - [**zigbee-src.zip**](zigbee-src.zip): all source texts and documents from Chinese resource  
-- [**ZigBee_3.0_Development_Guide.pdf**](ZigBee_3.0_Development_Guide.pdf): the final document  
+- [**ZigBee_3.0_Development_Guide-Part1.pdf**](ZigBee_3.0_Development_Guide-Part1.pdf): the final document, part 1  
+- [**ZigBee_3.0_Development_Guide-Part2.pdf**](ZigBee_3.0_Development_Guide-Part2.pdf): the final document, part 2  
 
 ## Contents
 * **1. Course Description**
