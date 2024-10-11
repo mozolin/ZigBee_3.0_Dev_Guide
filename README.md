@@ -12,7 +12,10 @@ Original (Chinese): [https://z7po9bxpe4.k.topthink.com/@zigbee-dev-guide/](https
 - [**zigbee-src.zip**](zigbee-src.zip): all source texts and documents from Chinese resource  
 - [**ZigBee_3.0_Development_Guide-Part1.pdf**](ZigBee_3.0_Development_Guide-Part1.pdf): the final document, part 1  
 - [**ZigBee_3.0_Development_Guide-Part2.pdf**](ZigBee_3.0_Development_Guide-Part2.pdf): the final document, part 2  
-
+  
+[Development board on Taobao](https://item.taobao.com/item.htm?id=683089996879)  
+[Development board on Aliexpress](https://aliexpress.ru/item/1005003309355639.html)  
+  
 ## Contents
 * **1. Course Description**
 * **2. Download supporting resources**
@@ -218,11 +221,3 @@ Original (Chinese): [https://z7po9bxpe4.k.topthink.com/@zigbee-dev-guide/](https
     * 9.17.4. ZigBee 3.0 multi-node networking practice
     * 9.17.5. Temperature, humidity & signal strength detection system based on ZigBee
   * 9.18. IAR EW for 8051 FAQ & Solutions
-
-[Bilibili Video Downloader](https://tiqu.cc/ru/bilibili/)  
-![](img/bilibili_video_downloader_01.jpg)  
-![](img/bilibili_video_downloader_02.jpg)  
-![](img/bilibili_video_downloader_03.jpg)  
-
-[Development board on Taobao](https://item.taobao.com/item.htm?id=683089996879)  
-[Development board on Aliexpress](https://aliexpress.ru/item/1005003309355639.html)  
